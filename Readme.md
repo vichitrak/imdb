@@ -1,7 +1,7 @@
 **Python script to automatically open up imdb link of the movie, fetch movie details to a spreadsheet and append imdb ratings to movie name.**
 
-IMDB-folder :	Opens up the movie link to imdb site directly from folder
-IMDB-lookup	: create a spreadsheet with movie details in the same folder
+IMDB-folder :	Opens up the movie link to imdb site directly from folder.
+IMDB-lookup	: create a spreadsheet with movie details in the same folder.
 imdb-rating-folder : append the movie names with their IMDB ratings (all the movies in the folder)
  
 How to check which python you're using.
