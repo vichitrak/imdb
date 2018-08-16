@@ -1,6 +1,5 @@
 **Python script to automatically open up imdb link of the movie, fetch movie details to a spreadsheet and append imdb ratings to movie name.**
 
-
 IMDB-folder :	Opens up the movie link to imdb site directly from folder
 IMDB-lookup	: create a spreadsheet with movie details in the same folder
 imdb-rating-folder : append the movie names with their IMDB ratings (all the movies in the folder)
@@ -17,10 +16,10 @@ How to switch between Python 2.x and Python 3.x
 -If you're using Python2 already, just download and install Python3 in different directory, set path if you want to use it.
 
 **Usage (imdb-lookup.py):**
-*[Use 'imdb-lookup-Python2.py' for Python2 and 'imdb-lookup-Python3.py' for Python3]*
+*[Works for both Python2 and Python3]*
 
 Copy imdb-lookup.py file to C:\
-Copy the IMDB-lookup.cmd file to your sendto folder in Windows (can be accessed by typing shell:sendto in addressbar or Win+R)
+Copy the IMDB-lookup.cmd file to your sendto folder in Windows (can be accessed by typing *shell:sendto* in addressbar or Win+R)
 Right click on a movie folder(of a single movie) and click Sendto --> IMDB-lookup.py
 
 Your default browser opens up with IMDB page of the movie.
