@@ -1,3 +1,14 @@
+#-------------------------------------------------------------------------------
+# Name:        imdb-lookup-folder
+# Purpose:
+#
+# Author:      manoj mj
+#
+# Created:
+# Copyright:   (c) www.manojmj.com
+# Licence:
+#-------------------------------------------------------------------------------
+
 import json
 import webbrowser
 import sys
