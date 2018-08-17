@@ -25,7 +25,7 @@ Right click on a movie folder(of a single movie) and click Sendto --> IMDB-looku
 Your default browser opens up with IMDB page of the movie.  
 
 **Usage (imdb-folder.py):**  
-*[Works only for Python2]*
+*[Works for both Python2 and Python3]*
 
 Copy **imdb-folder.py file to C:\\**  
 Copy the **IMDB-folder.cmd** file to your sendto folder in Windows (can be accessed by typing shell:sendto in addressbar)  
