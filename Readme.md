@@ -4,7 +4,7 @@
 **IMDB-lookup**	: create a spreadsheet with movie details in the same folder.  
 **imdb-rating-folder** : append the movie names with their IMDB ratings (all the movies in the folder)
 
-**How to check which python version you're using**
+**How to check which python version you're using**  
 -If Python is installed in your windows machine.  
 -Open command prompt --> type python --> Hit enter  
 -If You've set the python path in in system environment variables it'll show you the python version  
