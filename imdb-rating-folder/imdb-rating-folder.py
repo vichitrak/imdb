@@ -1,3 +1,13 @@
+#-------------------------------------------------------------------------------
+# Name:        imdb-lookup-folder
+# Purpose:
+#
+# Author:      vichitrak
+#
+# Created:
+# Copyright:   (c) www.manojmj.com
+# Licence:
+#-------------------------------------------------------------------------------
 import json
 import webbrowser
 import os
