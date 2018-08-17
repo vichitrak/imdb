@@ -1,22 +1,23 @@
-**Python script to automatically open up imdb link of the movie, fetch movie details to a spreadsheet and append imdb ratings to movie name.**
+**Python script to automatically open up imdb link of the movie, fetch movie details to a spreadsheet and append imdb ratings to movie folder name.**
 
 **IMDB-folder** :	Opens up the movie link to imdb site directly from folder.  
 **IMDB-lookup**	: create a spreadsheet with movie details in the same folder.  
 **imdb-rating-folder** : append the movie names with their IMDB ratings (all the movies in the folder)
 
-How to check which python you're using.  
+**How to check which python version you're using**
+-If Python is installed in your windows machine.  
 -Open command prompt --> type python --> Hit enter  
 -If You've set the python path in in system environment variables it'll show you the python version  
--else it'll show "python is not recognized as an internal windows"  
+-else it'll show **"python is not recognized as an internal windows"  
 
-How to switch between Python 2.x and Python 3.x  
+**How to switch between Python 2.x and Python 3.x**  
 -Download Python 2.x and 3.x from "https://www.python.org/downloads/"  
 -Install the python 2.x and 3.x in different directories.  
 -Now if you want to use python2 by default, set the path of Python2 in system environment variables, do the same if you want to use Python3  
 -If you're using Python2 already, just download and install Python3 in different directory, set path if you want to use it.  
 
 **Usage (imdb-lookup.py):**  
-*[Works for both Python2 and Python3]*
+[Works for both Python2 and Python3]  
 
 Copy **imdb-lookup.py file to C:\\**  
 Copy the IMDB-lookup.cmd file to your sendto folder in Windows (can be accessed by typing *shell:sendto* in addressbar or Win+R)  
@@ -25,7 +26,7 @@ Right click on a movie folder(of a single movie) and click Sendto --> IMDB-looku
 Your default browser opens up with IMDB page of the movie.  
 
 **Usage (imdb-folder.py):**  
-*[Works for both Python2 and Python3]*
+[Works for both Python2 and Python3]  
 
 Copy **imdb-folder.py file to C:\\**  
 Copy the **IMDB-folder.cmd** file to your sendto folder in Windows (can be accessed by typing shell:sendto in addressbar)  
@@ -35,7 +36,7 @@ Voila! Excel spreadsheet opens up with all details fetched from Imdb like genre,
 All the extra information in the file/folder name like DVDrip,aXXo etc are removed in the script so as to search the database.  
 
 **Usage(imdb-rating-folder.Py)**  
-*[Works on both Python2 and Python3]*  
+[Works on both Python2 and Python3]  
 
 Copy **'imdb-rating-folder.py' file to C:\\**  
 Copy **'imdb-rating-folder.cmd**' in the movies folder whose movie folders you want to rename  
